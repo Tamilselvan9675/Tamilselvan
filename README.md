@@ -37,7 +37,6 @@
 ### 🍻 Support the channel:
 
 [<img alt="YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
-[<img alt="Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=052D46" />][patron]
 
 ---
 
@@ -66,4 +65,3 @@
 [linkedin]: https://linkedin.com
 [twitter]: https://twitter.com
 [sponsor]: https://www.youtube.com
-[patron]: https://www.patreon.com
